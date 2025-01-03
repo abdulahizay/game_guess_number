@@ -1,0 +1,31 @@
+.headingTwo{
+    display: none;
+}
+.buttonTwo{
+    display: none;
+}
+.inputTwo{
+    display: none;
+}
+
+.error{
+    color: red;
+}
+
+body{
+    background-color: rgb(250, 235, 30);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.main{
+
+    background-color: red;
+    color: aliceblue;
+    padding: 50px 100px;
+    border-radius: 10px;
+    text-align: center;
+
+}
